@@ -17,7 +17,7 @@
 *  Lombok
 *  HTML/CSS
 
- ## В учебных проектах использовал технологии:
+ ### В учебных проектах использовал технологии:
 * TelegramBotApi
 * MySQL
 * AWS Elastic Beanstalk
