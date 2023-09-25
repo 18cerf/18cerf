@@ -4,9 +4,9 @@
 
 > Ссылка на мой [hh.ru](https://voronezh.hh.ru/resume/e969f4edff0c18e7df0039ed1f515070633443)
 
-  На данный момент работаю в компании [smartdata.dev](https://www.smartdata.dev/) на должности инженера сопровождения и технической поддержки продукта.
+###  На данный момент работаю в компании [smartdata.dev](https://www.smartdata.dev/) на должности инженера сопровождения и технической поддержки продукта.
 
- В работе на [mytko.ru](https://mytko.ru/) использую такие технологии, как:
+### В работе на проекте [mytko.ru](https://mytko.ru/) использую такие технологии, как:
 *  Cuba
 *  Spring Boot
 *  Spring Data
