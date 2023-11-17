@@ -4,25 +4,53 @@
 
 > Ссылка на мой [hh.ru](https://voronezh.hh.ru/resume/e969f4edff0c18e7df0039ed1f515070633443)
 
-###  На данный момент работаю в компании [smartdata.dev](https://www.smartdata.dev/) на должности инженера сопровождения и технической поддержки продукта.
+### Настоящее место работы: [help.aptekivita.ru](https://help.aptekivita.ru/sd/) Должность: Разработчик Groovy | Java. Инженер-технолог по сопровождению Service Desk
+
+### В работе на проекте использую такие технологии, как: 
+* Java
+* Groovy
+* Spring(Boot, Rest, MVC, Security)
+* Docker
+* Linux
+* GitLab
+* PostgreSQL
+* HTML/CSS
+
+###  Предыдущее место работы: [smartdata.dev](https://www.smartdata.dev/) должность: Младший Java | Groovy | Spring разработчик, специалист технической поддержки второй-третьей линии
 
 ### В работе на проекте [mytko.ru](https://mytko.ru/) использую такие технологии, как:
-*  Cuba
-*  Spring Boot
-*  Spring Data
-*  PostgreSQL
-*  Groovy
-*  GitLab
-*  ApachePOI
-*  Lombok
-*  HTML/CSS
+- Java
+- Vaadin
+- Spring Boot
+- Spring Rest
+- Spring Security
+- Sprin MVC
+- Spring Data JPA
+- SQL(PostgreSQL)
+- ApacePOI
+- Groovy
+- HTML, CSS
+- Linux
+- Docker
 
  ### В учебных проектах использовал технологии:
 * TelegramBotApi
 * MySQL
-* AWS Elastic Beanstalk
-* AWS S3
-* AWS RDS
+* Java
+* Vaadin
+* Spring Boot
+* Spring Rest
+* Spring Security
+* Sprin MVC
+* Spring Data JPA
+* SQL(PostgreSQL)
+* ApacePOI
+* Groovy
+* HTML, CSS
+* Linux
+* Docker
+* Nginx
+
 <!--
 **18cerf/18cerf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
