@@ -24,7 +24,7 @@
 - Spring Boot
 - Spring Rest
 - Spring Security
-- Sprin MVC
+- Spring MVC
 - Spring Data JPA
 - SQL(PostgreSQL)
 - ApacePOI
@@ -41,7 +41,7 @@
 * Spring Boot
 * Spring Rest
 * Spring Security
-* Sprin MVC
+* Spring MVC
 * Spring Data JPA
 * SQL(PostgreSQL)
 * ApacePOI
