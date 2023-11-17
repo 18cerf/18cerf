@@ -2,7 +2,7 @@
 
 ## Я начинающий Java разработчик с опытом работы 1 год, занимаюсь разработкой и техническим сопровождением веб-приложений.
 
-> Ссылка на мой [hh.ru](https://voronezh.hh.ru/resume/e969f4edff0c18e7df0039ed1f515070633443)
+> Ссылка на мой [hh.ru](https://voronezh.hh.ru/applicant/resumes/view?resume=36ef83b6ff0c197c490039ed1f72467265747a)
 
 ### Настоящее место работы: [help.aptekivita.ru](https://help.aptekivita.ru/sd/) Должность: Разработчик Groovy | Java. Инженер-технолог по сопровождению Service Desk
 
